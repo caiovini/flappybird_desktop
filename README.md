@@ -39,3 +39,10 @@ For the new game screen, there will be an implementation of the libgdx library. 
 4.	Database information storage.
 The database will store information about user configuration preferences, all scores along with the user’s initial letters, time and date of the score, user’s name, age and gender.
 During the initialization of the game, all data related to each user will be configured accordingly, if new user is registered, new data will be inserted relating configurations and scores.
+
+
+To run the project:
+
+git clone https://github.com/caiovini/flappybird_desktop.git
+
+run it normally on eclipse.
